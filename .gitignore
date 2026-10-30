@@ -1,0 +1,23 @@
+# Dataset
+data/
+cache/
+
+# Model checkpoints
+checkpoints/
+*.pt
+*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
